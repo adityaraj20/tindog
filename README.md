@@ -4,7 +4,7 @@ Start up landing page for a fictional application named TinDog. TinDog allows th
 
 ## Deployment
 
-Deployed Website: https://rosajen27.github.io/tindog/
+Deployed Website: 
 
 ![tindog](./images/Capture.png)
 
@@ -16,8 +16,8 @@ Deployed Website: https://rosajen27.github.io/tindog/
 
 ## Authors
 
-  - **Jennifer Rosa**
-    [Rosajen27](https://rosajen27.github.io/)
+  - **Aditya raj**
+   (https://github.com/adityaraj20/)
 
 
 ## License
@@ -26,7 +26,7 @@ Deployed Website: https://rosajen27.github.io/tindog/
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2021 Jennifer Rosa
+Copyright (c) 2021 Aditya Raj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
